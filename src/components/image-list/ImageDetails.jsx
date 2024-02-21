@@ -2,7 +2,7 @@ import axios from "axios";
 import { useEffect, useState } from "react"
 import { Link, useParams } from "react-router-dom";
 import Loading from "./Loading.jsx";
-import '../../styling/imagelist.css'
+import '../../styling/imagedetails.css'
 function ImageDetails(){
 
 
