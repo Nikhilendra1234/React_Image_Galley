@@ -2,6 +2,9 @@
     width: 350px;
     height: 300px;
     cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .image img{
     width: 100%;

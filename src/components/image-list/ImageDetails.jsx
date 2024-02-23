@@ -45,8 +45,8 @@ function ImageDetails(){
         </div>
     }
     {(isLoading)?"":
-    <Link style={{textDecoration: 'none'}} to="/">
-    <button className="controls">Home</button>
+    <Link style={{textDecoration: 'none'}}  to="/">
+    <button className="control">Home</button>
     </Link>
     }
         </>
