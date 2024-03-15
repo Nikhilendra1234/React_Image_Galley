@@ -34,4 +34,7 @@ Currently, two official plugins are available:
 <h2>CustomLoader Hook</h2>
 <P>It is an implementation of the custom hook technique in this hook we have maintained several states for the loading state ,imagelist state ,offset value state and image url state . in this hook the actual loading of the image happens and data is returned to the caller compoent which is ImageDetails. after all this  exported the functions and variables to be accessed in the other compoents.</P>
 
+<h2>Styling</h2>
+<p>For styling purpose used general external css for each  component .used flexbox for the layout design and other various styling features .</p>
+
 <h3>visit site with Netlify <a href="https://nikhil-image-gallery.netlify.app">visit site</a></h3>
